@@ -149,3 +149,20 @@ main section {
     font-weight: 700;
     text-align: left;
 }
+.resume-container{
+    display: flex;
+    gap: 80px;
+    padding: 30px 90px;
+}
+
+.download-cv{
+    text-align: center;
+}
+
+/* footer style */
+footer{
+    display: flex;
+    background: rgb(255, 248, 243);
+    padding: 130px 200px;
+    margin-top: 125px;
+}
